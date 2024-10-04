@@ -28,7 +28,6 @@ main {
   }
 
   & p {
-    
     margin-top: .5rem;
   }
 }
@@ -54,4 +53,8 @@ aside {
   & span {
     color: var(--stroke-highlight);
   }
+}
+
+.textarea-wrapper textarea {
+  display: block;
 }
