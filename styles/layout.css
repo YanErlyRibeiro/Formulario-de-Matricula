@@ -54,7 +54,3 @@ aside {
     color: var(--stroke-highlight);
   }
 }
-
-.textarea-wrapper textarea {
-  display: block;
-}
