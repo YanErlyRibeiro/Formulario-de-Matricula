@@ -8,6 +8,7 @@
   text-align: center;
   padding: 1.75rem 1rem;   
   position: relative;
+  
 
   & input {
     position: absolute;
@@ -15,6 +16,7 @@
     height: 100%;
     inset: 0;
     opacity: 0;
+    cursor: pointer;
   }
   
   & p {
